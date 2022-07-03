@@ -1,7 +1,7 @@
 # API-REST-FULL
 
 ```
-  Documentacion: https://documenter.getpostman.com/view/19470050/UzJFuHaP
+  Documentación: https://documenter.getpostman.com/view/19470050/UzJFuHaP
   CRUD-Productos
   CRUD-Categorias
   JWT
